@@ -66,6 +66,7 @@
       </ul>
 	  <br>
 	  <h1><%= messege %><h1>
+	  <a href ="index.jsp" class="again"><h3>もう一度対戦する</h3></a>
   
 </body>
 </html>
