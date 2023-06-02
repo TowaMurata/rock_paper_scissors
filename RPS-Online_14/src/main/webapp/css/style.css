@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+button {
+  border: none;
+  background: transparent;
+  margin-left:  200px;
+  margin-top: 20px;
+}
+ul{
+	display: flex;
+	list-style: none;
+}
+
+li{
+	margin-left: 190px;
+	border-width: thick;
+	border-style: solid;
+}
+
+.rock{
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.scissors{
+	margin-right: 30px;
+	margin-left: 30px;
+}
+.paper{
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.li_scissors{
+	margin-left: 250px;
+}
+
+.li_paper{
+	margin-left: 250px;
+}
+
+
